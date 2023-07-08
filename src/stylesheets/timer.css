@@ -1,0 +1,25 @@
+.container_timer {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    width: 400px;
+    height: 298px;
+    background-color: aqua;
+}
+
+.timer_time {
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+    height: 200px;
+}
+
+.h1_timer {
+    font-size: 50px;
+    margin-top: 10px;
+}
